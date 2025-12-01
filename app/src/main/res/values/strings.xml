@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SHR</string>
+    <string name="default_web_client_id">83496530230-7vv308a3n6d0654nb180if13dj8dj3qi.apps.googleusercontent.com</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

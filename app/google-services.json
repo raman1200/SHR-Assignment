@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83496530230",
+    "project_id": "superhumanrace-d8d69",
+    "storage_bucket": "superhumanrace-d8d69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83496530230:android:9465c02299a92e11fc0397",
+        "android_client_info": {
+          "package_name": "com.project.raman.shr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83496530230-7vv308a3n6d0654nb180if13dj8dj3qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwvu9sic5acCLqUuMPQH-4gfJWKE3-8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83496530230-7vv308a3n6d0654nb180if13dj8dj3qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
